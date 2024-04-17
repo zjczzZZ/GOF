@@ -1,0 +1,1 @@
+/root/C++/GOF/PluginDLL/Plugin/Plugin.so
